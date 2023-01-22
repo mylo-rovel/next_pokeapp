@@ -1,0 +1,8 @@
+.navbar-title {
+    display: flex;
+}
+
+.navbar-title h3{
+    display: grid;
+    place-items: center;
+}
